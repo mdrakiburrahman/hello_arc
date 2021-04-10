@@ -6,7 +6,7 @@ This container image can be deployed on a Kubernetes cluster. When accessed via 
 * Kubernetes pod name
 * Node os information
 
-It is designed for demoing Azure Arc for Kubernetes GitOps flow included in the ["Azure Arc Jumpstart GitHub repository"](https://github.com/likamrat/azure_arc/) but can really be used for other demo purposes easily. 
+It is designed for demoing Azure Arc for Kubernetes GitOps flow included in the ["Azure Arc Jumpstart GitHub repository"](https://github.com/mdrakiburrahman/azure_arc/) but can really be used for other demo purposes easily. 
 
 ![](img/hello_arc.png)
 
